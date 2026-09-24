@@ -20,7 +20,7 @@ The Angular layer handles the UI, the canvas rendering, and the keyboard input, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ruipachecoo/doom-angular.git
+   git clone https://github.com/ruipachecoo/doom.git
    cd doom-angular
    npm install
    ng serve
